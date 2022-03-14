@@ -77,3 +77,12 @@ header nav a:hover{
   background-color: white;
   color: black;
 }
+.botao{
+  margin-right: 8px;
+}
+.container{
+  margin-left: 30px;
+}
+.filme-principal .container{
+  width: 70%;
+}
